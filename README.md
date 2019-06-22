@@ -39,7 +39,7 @@
 
 > Para executar a aplicação principal é preciso gerar um arquivo com as dimensões NxM, onde N e M devem ser iguais (matrizes quadradas), renomear o arquivo manualmente, e gerar novo arquivo com as mesmas dimensões do primeiro para garantir a compatibilidade dos arquivos de entrada.
 
-###EXECUÇÕES EM SÉRIE
+### EXECUÇÕES EM SÉRIE
 
 > Foi criado um script para facilitar as execuções, nele são criados arquivos para utilizar nas execuções onde o primeiro arquivo é criado, renomeado e outro arquivo gerado em seguida.
 
@@ -49,7 +49,7 @@
 
 > Serão executadas 4 variações dos testes e os resultados estarão impressos em arquivos de texto com nome indicando a dimensão das matrizes quadradas e o número de threads.
 
-###RESTRIÇÕES
+### RESTRIÇÕES
 
 > __IMPORTANTE__
 
